@@ -101,4 +101,4 @@ Production bundle is output to `dist/`. Total bundle size is under 500KB (gzippe
 
 ---
 
-**Yukti ** — *Your Vote. Your Voice. Your India.*
+**Yukti** — *Your Vote. Your Voice. Your India.*
